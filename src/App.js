@@ -145,23 +145,23 @@ function App() {
                     <span className="uppercase font-semibold pb-1 border-b-4 pr-5 border-sky-950">
                       EDUCATION :
                     </span>
-                    <ul className="disc text-[17px] mt-3 leading-8">
+                    <ul className="text-[17px] mt-3 leading-8">
                       <li>
-                        <h3 className="">Graduation</h3>
+                        <h3 className="font-semibold">Graduation</h3>
                         <p>
                           Bsc Computer science (graduate) from Mumbai university
                           in the year 2021.First Class , CGPI-8.3
                         </p>
                       </li>
                       <li>
-                        <h3 className="">HSC</h3>
+                        <h3 className="font-semibold">HSC</h3>
                         <p>
                           Hsc passed from Maharashtra board in the year 2018.
                           With an aggregate 51%
                         </p>
                       </li>
                       <li>
-                        <h3 className="">SSC</h3>
+                        <h3 className="font-semibold">SSC</h3>
                         <p>
                           SSC passed from Maharashtra board in the year 2016.
                           With an aggregate 70%
@@ -180,7 +180,7 @@ function App() {
                   <span className="uppercase font-semibold pb-1 border-b-4 pr-5 border-sky-950">
                     LANGUAGE :
                   </span>
-                  <ul className="disc text-[17px] mt-3 leading-8">
+                  <ul className=" text-[17px] mt-3 leading-8">
                     <li>English</li>
                     <li>Marathi</li>
                     <li>Hindi</li>
@@ -190,7 +190,7 @@ function App() {
                   <span className="uppercase font-semibold pb-1 border-b-4 pr-5 border-sky-950">
                     CERTIFICATIONS :
                   </span>
-                  <ul className="disc text-[17px] mt-3 leading-8">
+                  <ul className="list-disc text-[17px] mt-3 leading-8">
                     <li>
                       <p>
                         I completed a Front end development -HTML and software
@@ -199,9 +199,16 @@ function App() {
                     </li>
                     <li>
                       <p>
-                        I completed a Front end development -HTML and software
-                        testing certification from the Great Learning Academy
+                        I completed a React js development Course from the Udemy
+                        Academy
                       </p>
+                      <a
+                        href="https://www.udemy.com/certificate/UC-b00065d1-b746-40bd-be67-56d75ce41525/"
+                        className="text-blue-800 underline text-sm"
+                        target="_blank"
+                      >
+                        React Course Certifications
+                      </a>
                     </li>
                   </ul>
                 </div>
