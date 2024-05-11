@@ -240,7 +240,7 @@ function App() {
                     </a>
                   </li>
                   <li>
-                    <b>Date:- </b>
+                    <b>Date :- </b>
                     October 2022 to till date
                   </li>
                 </ul>
@@ -265,14 +265,14 @@ function App() {
               <div className="">
                 <ul className="disc text-[17px] mt-3 leading-8">
                   <li>
-                    <b>Project Name:- </b>
+                    <b>Project Name :- </b>
                     <b>Jewel Webnet</b> Website design and development
                   </li>
                   <li>
                     <b>Location :- </b>Andheri East
                   </li>
                   <li>
-                    <b>Project 2:- </b>
+                    <b>Project 2 :- </b>
                     <a
                       href="http://theme3.jewelwebnet.com/"
                       className="text-blue-800 underline"
@@ -282,7 +282,7 @@ function App() {
                     </a>
                   </li>
                   <li>
-                    <b>Date:-</b>
+                    <b>Date :- </b>
                     June 2023 till date
                   </li>
                 </ul>
@@ -318,11 +318,11 @@ function App() {
               <div className="">
                 <ul className="disc text-[17px] mt-3 leading-8">
                   <li>
-                    <b>Project Name:- </b>
+                    <b>Project Name :- </b>
                     <b>A1 Employment Services</b>
                   </li>
                   <li>
-                    <b>Project 3:- </b>
+                    <b>Project 3 :- </b>
                     <a
                       href="http://theme3.jewelwebnet.com/"
                       className="text-blue-800 underline"
@@ -332,7 +332,7 @@ function App() {
                     </a>
                   </li>
                   <li>
-                    <b>Date:- </b>
+                    <b>Date :- </b>
                     January 2023 to March 2023
                   </li>
                 </ul>
@@ -347,11 +347,11 @@ function App() {
               <div className="">
                 <ul className="disc text-[17px] mt-3 leading-8">
                   <li>
-                    <b>Project Name:- </b>
+                    <b>Project Name :- </b>
                     <b>Hg Jewels</b>
                   </li>
                   <li>
-                    <b>Project 3:- </b>
+                    <b>Project 3 :- </b>
                     <a
                       href="www.hgjewel.com"
                       className="text-blue-800 underline"
@@ -361,7 +361,7 @@ function App() {
                     </a>
                   </li>
                   <li>
-                    <b>Date:- </b>
+                    <b>Date :- </b>
                     October 2022 to December 2022
                   </li>
                 </ul>
@@ -376,11 +376,11 @@ function App() {
               <div className="">
                 <ul className="disc text-[17px] mt-3 leading-8">
                   <li>
-                    <b>Project Name:- </b>
+                    <b>Project Name :- </b>
                     <b>Theme 3</b>
                   </li>
                   <li>
-                    <b>Project 3:- </b>
+                    <b>Project 3 :- </b>
                     <a
                       href="http://theme3.jewelwebnet.com/"
                       className="text-blue-800 underline"
@@ -390,7 +390,7 @@ function App() {
                     </a>
                   </li>
                   <li>
-                    <b>Date:- </b>
+                    <b>Date :- </b>
                     2023
                   </li>
                 </ul>
@@ -445,6 +445,26 @@ function App() {
                       target="_blank"
                     >
                       PSYCHOKNOWMICS COUNSELING & EDUCATIONAL SERVICES
+                    </a>
+                  </li>
+                  <li>
+                    <b>Link 4 :- </b>
+                    <a
+                      href="https://react-todo-list-ebon-three.vercel.app/"
+                      className="text-blue-800 underline uppercase"
+                      target="_blank"
+                    >
+                      ToDo List In React
+                    </a>
+                  </li>
+                  <li>
+                    <b>Link 5 :- </b>
+                    <a
+                      href="https://react-form-and-popupmodel.vercel.app/"
+                      className="text-blue-800 underline uppercase"
+                      target="_blank"
+                    >
+                      In React Form And Popup Modal
                     </a>
                   </li>
                 </ul>
